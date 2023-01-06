@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\bin\Debug\netcoreapp3.1\06012023homework.exe
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\bin\Debug\netcoreapp3.1\06012023homework.deps.json
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\bin\Debug\netcoreapp3.1\06012023homework.runtimeconfig.json
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\bin\Debug\netcoreapp3.1\06012023homework.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\bin\Debug\netcoreapp3.1\06012023homework.dll
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\bin\Debug\netcoreapp3.1\06012023homework.pdb
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\obj\Debug\netcoreapp3.1\06012023homework.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\obj\Debug\netcoreapp3.1\06012023homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\obj\Debug\netcoreapp3.1\06012023homework.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\obj\Debug\netcoreapp3.1\06012023homework.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\obj\Debug\netcoreapp3.1\06012023homework.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\obj\Debug\netcoreapp3.1\06012023homework.dll
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\obj\Debug\netcoreapp3.1\06012023homework.pdb
+C:\Users\Lenovo\source\repos\06012023homework\06012023homework\obj\Debug\netcoreapp3.1\06012023homework.genruntimeconfig.cache

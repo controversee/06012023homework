@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aOphDiYy0Mv9Ah/ODTeDH8TWJecIOqkQfaZIkr/cUfWHP7mXBdzyRcjPkpRD4R/gLGrbmI2N6tN14XeXfPI4UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\06012023homework\\06012023homework\\06012023homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
